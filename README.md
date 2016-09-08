@@ -1,2 +1,2 @@
 # pythonexercises
-Python exercises
+###Python exercises using Sublime Text, cmd prompt python
